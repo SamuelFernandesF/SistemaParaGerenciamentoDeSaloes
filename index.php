@@ -24,19 +24,24 @@
                 <strong>Carousel, ou texto falando sobre nossos serviços.</strong>
             </div>
             <div class="col-md-4" style="background-color: #ccc; height: 325px;margin-top: 20px; text-align: center">
-                <div class="col-md-12">
-                    <strong>FORMULÁRIO</strong> <br>
-                    <label>Username</label>
-                    <input type="text">
-                    <br>
-                    <label>Password</label>
-                    <input type="password">
-                    <br>
-                    <button type="submit" class="btn btn-primary"> Enviar</button>
-                    <br>
-                    <a href="#">criar uma nova conta.</a>
+                <div class="col-md-12" style="padding: 20px ">
+                    <form role="form" method="POST" action="funcoesPHP/Login.php">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <input type="text" class="form-control" id="email_login" name="email_login" placeholder="Email">
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-12">
+                                <input type="password" class="form-control" name="password_login" id="password_login" placeholder="Password">
+                            </div>
+                        </div>
+                        <button onclick="" class="btn btn-default btn-block">Logar</button>
+                        <a href="#"> Criar uma conta! </a>
+                    </form>
                 </div>
             </div>
+
         </div>
     </div>
     <div class="row">
