@@ -1,9 +1,36 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7a641278-dba1-4627-98a9-38cdf8b0af5a" name="Default" comment="" />
+    <list default="true" id="7a641278-dba1-4627-98a9-38cdf8b0af5a" name="Default" comment="teste">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home/agenda.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home/contato.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home/salao-1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home/salao-2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home/salao-3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/home/smartphone.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/cadastro.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/carousel.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/carousel.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/dropdown.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/footer.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/header.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/home.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/jquery.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/login.php" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/modal.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/popover.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/signin.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/css/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/js/tooltip.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
+    <list id="2a7d013f-8237-481d-afbe-c3850da730ee" name="New changelist" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+    </list>
     <ignored path="Sistema para gerenciamento de saloes.iws" />
     <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -23,58 +50,12 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="pagamentos.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pagamentos.php">
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="120" column="78" selection-start="5517" selection-end="5517" vertical-scroll-proportion="-16.26923" vertical-offset="1617" max-vertical-offset="2261">
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-                <marker date="1415670737688" expanded="true" signature="1175:5667" placeholder="..." />
-                <marker date="1415670737688" expanded="true" signature="3152:3297" placeholder="..." />
-                <marker date="1415670737688" expanded="true" signature="4537:5560" placeholder="..." />
-                <marker date="1415670737688" expanded="true" signature="4596:4623" placeholder="SELECT * FRO..tb_pagamentos..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="pagamentos.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/funcoesPHP/pagamentos.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="26" selection-start="672" selection-end="672" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="595">
-              <folding>
-                <marker date="1415671566220" expanded="true" signature="257:427" placeholder="INSERT INTO ..." />
-                <marker date="1415671566220" expanded="true" signature="691:698" placeholder="UPDATE tb_pa..." />
-                <marker date="1415671566220" expanded="true" signature="691:761" placeholder="UPDATE tb_pa..." />
-                <marker date="1415671566220" expanded="true" signature="691:915" placeholder="UPDATE tb_pa..." />
-                <marker date="1415671566220" expanded="true" signature="691:856" placeholder="UPDATE tb_pa..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FunctionsApoio.php" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/../Projeto Adler/FunctionsApoio.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="25" column="99" selection-start="1130" selection-end="1500" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="714">
-              <folding>
-                <marker date="1404419321311" expanded="true" signature="501:964" placeholder="INSERT INTO ..." />
-                <marker date="1404419321311" expanded="true" signature="1131:1499" placeholder="UPDATE tb_ap..." />
-                <marker date="1404419321311" expanded="true" signature="1643:1678" placeholder="DELETE FROM ..." />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="alterarpagamento.php" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/alterarpagamento.php">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="152" selection-start="3401" selection-end="3401" vertical-scroll-proportion="0.53934425" vertical-offset="1065" max-vertical-offset="1802">
-              <folding>
-                <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-                <marker date="1415671608066" expanded="true" signature="2722:2771" placeholder="SELECT * FRO..tb_pagamento..." />
-                <marker date="1415671608066" expanded="true" signature="2722:2774" placeholder="SELECT * FRO..tb_pagamentos..." />
-              </folding>
+            <state vertical-scroll-proportion="0.3456562" vertical-offset="0" max-vertical-offset="1292">
+              <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -86,11 +67,13 @@
       <setting name="OPEN_NEW_TAB" value="false" />
     </FindUsagesManager>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="IdeDocumentHistory">
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/necessaryPHP/db_con.php" />
-        <option value="$PROJECT_DIR$/index.php" />
         <option value="$PROJECT_DIR$/criarUsuario.php" />
         <option value="$PROJECT_DIR$/sideBar.php" />
         <option value="$PROJECT_DIR$/funcoesPHP/Login.php" />
@@ -101,17 +84,18 @@
         <option value="$PROJECT_DIR$/../Projeto Adler/VerificarUsuario.php" />
         <option value="$PROJECT_DIR$/funcoesPHP/pagamentos.php" />
         <option value="$PROJECT_DIR$/alterarpagamento.php" />
+        <option value="$PROJECT_DIR$/index.php" />
       </list>
     </option>
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
-    <option name="x" value="-8" />
-    <option name="y" value="-8" />
-    <option name="width" value="1382" />
-    <option name="height" value="784" />
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1384" />
+    <option name="height" value="738" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <OptionsSetting value="true" id="Add" />
     <OptionsSetting value="true" id="Remove" />
     <OptionsSetting value="true" id="Checkout" />
@@ -125,7 +109,7 @@
     <option name="STATE" value="0" />
   </component>
   <component name="ProjectView">
-    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+    <navigator currentView="ProjectPane" proportions="" version="1">
       <flattenPackages />
       <showMembers />
       <showModules />
@@ -137,7 +121,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -152,7 +135,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sistema para gerenciamento de saloes" />
+              <option name="myItemId" value="SistemaParaGerenciamentoDeSaloes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -162,16 +145,17 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="Sistema para gerenciamento de saloes" />
+              <option name="myItemId" value="SistemaParaGerenciamentoDeSaloes" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="funcoesPHP" />
+              <option name="myItemId" value="necessaryPHP" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -195,7 +179,14 @@
     <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
       <method />
     </configuration>
-    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
       <method />
     </configuration>
     <configuration default="true" type="PhpUnitRemoteRunConfigurationType" factoryName="PHPUnit on Server">
@@ -204,40 +195,58 @@
     <list size="0" />
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="7a641278-dba1-4627-98a9-38cdf8b0af5a" name="Default" comment="" />
+      <changelist id="2a7d013f-8237-481d-afbe-c3850da730ee" name="New changelist" comment="" />
       <created>1415657824558</created>
+      <option name="number" value="Default" />
       <updated>1415657824558</updated>
     </task>
+    <task id="LOCAL-00001" summary="teste">
+      <created>1415674196119</created>
+      <option name="number" value="00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1415674196119</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="784" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1384" height="738" extended-state="6" />
+    <editor active="false" />
     <layout>
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="GitLabIntegration" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2489019" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3288889" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
     <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
       <collection />
     </option>
   </component>
@@ -248,172 +257,138 @@
     <option name="myTodoPanelSettings">
       <TodoPanelSettings />
     </option>
+    <MESSAGE value="teste" />
+    <option name="LAST_COMMIT_MESSAGE" value="teste" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
+    <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="38" column="91" selection-start="1751" selection-end="1751" vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1258">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/necessaryPHP/db_con.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/necessaryPHP/db_con.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="5" selection-start="5" selection-end="5" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/CadastroUniversidade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="0" selection-start="1016" selection-end="1016" vertical-scroll-proportion="0.91967213" vertical-offset="0" max-vertical-offset="2975">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/FunctionsUniversidade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1020">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/js/npm.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/LogIn.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="19" selection-start="1048" selection-end="1925" vertical-scroll-proportion="0.5072231" vertical-offset="534" max-vertical-offset="1649">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/criarUsuario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="24" column="97" selection-start="971" selection-end="971" vertical-scroll-proportion="0.23442623" vertical-offset="265" max-vertical-offset="901">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="27" column="70" selection-start="1114" selection-end="1124" vertical-scroll-proportion="0.13934426" vertical-offset="374" max-vertical-offset="1258">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/dashboard.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="59" column="43" selection-start="2429" selection-end="2429" vertical-scroll-proportion="0.23442623" vertical-offset="860" max-vertical-offset="1496">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/VisualizarApoio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="69" column="7" selection-start="3140" selection-end="3140" vertical-scroll-proportion="0.94426227" vertical-offset="597" max-vertical-offset="1275">
-          <folding>
-            <marker date="1404937676472" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_apoio..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/VerificarUsuario.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="35" selection-start="304" selection-end="304" vertical-scroll-proportion="0.08186196" vertical-offset="153" max-vertical-offset="1122">
-          <folding>
-            <marker date="1404837949428" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_usuario..." />
-            <marker date="1404837949428" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-            <marker date="1404837949428" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_usuario..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/funcoesPHP/Login.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="53" selection-start="942" selection-end="942" vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="629">
-          <folding>
-            <marker date="1415668669854" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_user..." />
-            <marker date="1415668669854" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/dashboard.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="110" column="23" selection-start="1749" selection-end="1749" vertical-scroll-proportion="0.9476117" vertical-offset="1255" max-vertical-offset="1989">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/AlterarUniversidade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="29" column="7" selection-start="762" selection-end="762" vertical-scroll-proportion="-12.346154" vertical-offset="172" max-vertical-offset="2176">
-          <folding>
-            <marker date="1404947054339" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_universidades..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/../Projeto Adler/FunctionsApoio.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="25" column="99" selection-start="1130" selection-end="1500" vertical-scroll-proportion="-16.346153" vertical-offset="0" max-vertical-offset="714">
-          <folding>
-            <marker date="1404419321311" expanded="true" signature="501:964" placeholder="INSERT INTO ..." />
-            <marker date="1404419321311" expanded="true" signature="1131:1499" placeholder="UPDATE tb_ap..." />
-            <marker date="1404419321311" expanded="true" signature="1643:1678" placeholder="DELETE FROM ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/pagamentos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="120" column="78" selection-start="5517" selection-end="5517" vertical-scroll-proportion="-16.26923" vertical-offset="1617" max-vertical-offset="2261">
+        <state vertical-scroll-proportion="0.0" vertical-offset="1617" max-vertical-offset="2261">
+          <caret line="120" column="78" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
           <folding>
-            <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
-            <marker date="1415670737688" expanded="true" signature="1175:5667" placeholder="..." />
-            <marker date="1415670737688" expanded="true" signature="3152:3297" placeholder="..." />
-            <marker date="1415670737688" expanded="true" signature="4537:5560" placeholder="..." />
-            <marker date="1415670737688" expanded="true" signature="4596:4623" placeholder="SELECT * FRO..tb_pagamentos..." />
+            <marker date="1415674063326" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_pagamentos..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/funcoesPHP/pagamentos.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="26" selection-start="672" selection-end="672" vertical-scroll-proportion="-13.076923" vertical-offset="0" max-vertical-offset="595">
+        <state vertical-scroll-proportion="0.0" vertical-offset="340" max-vertical-offset="595">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
           <folding>
-            <marker date="1415671566220" expanded="true" signature="257:427" placeholder="INSERT INTO ..." />
-            <marker date="1415671566220" expanded="true" signature="691:698" placeholder="UPDATE tb_pa..." />
-            <marker date="1415671566220" expanded="true" signature="691:761" placeholder="UPDATE tb_pa..." />
-            <marker date="1415671566220" expanded="true" signature="691:915" placeholder="UPDATE tb_pa..." />
-            <marker date="1415671566220" expanded="true" signature="691:856" placeholder="UPDATE tb_pa..." />
+            <marker date="1415674063251" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1415674063251" expanded="true" signature="-1:-1" placeholder="UPDATE tb_pa..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/alterarpagamento.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="152" selection-start="3401" selection-end="3401" vertical-scroll-proportion="0.53934425" vertical-offset="1065" max-vertical-offset="1802">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1802">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="n#style#0;n#form#0;n#div#1;n#div#0;n#body#0;n#!!top" expanded="true" />
-            <marker date="1415671608066" expanded="true" signature="2722:2771" placeholder="SELECT * FRO..tb_pagamento..." />
-            <marker date="1415671608066" expanded="true" signature="2722:2774" placeholder="SELECT * FRO..tb_pagamentos..." />
+            <marker date="1415674063128" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_pagamentos..." />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="374" max-vertical-offset="1258">
+          <caret line="38" column="91" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/necessaryPHP/db_con.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="204">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/necessaryPHP/db_con.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="153">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/npm.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="306">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/criarUsuario.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23442623" vertical-offset="265" max-vertical-offset="901">
+          <caret line="24" column="97" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dashboard.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.23442623" vertical-offset="860" max-vertical-offset="1496">
+          <caret line="59" column="43" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoesPHP/Login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.038462" vertical-offset="0" max-vertical-offset="629">
+          <caret line="23" column="53" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/dashboard.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.9476117" vertical-offset="1255" max-vertical-offset="1989">
+          <caret line="110" column="23" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/alterarpagamento.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="2.4510167" vertical-offset="0" max-vertical-offset="1802">
+          <caret line="78" column="6" selection-start-line="78" selection-start-column="6" selection-end-line="78" selection-end-column="6" />
+          <folding>
+            <marker date="1415674063128" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_pagamentos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/funcoesPHP/pagamentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.52865064" vertical-offset="54" max-vertical-offset="595">
+          <caret line="20" column="26" selection-start-line="20" selection-start-column="26" selection-end-line="20" selection-end-column="26" />
+          <folding>
+            <marker date="1415674063251" expanded="true" signature="-1:-1" placeholder="INSERT INTO ..." />
+            <marker date="1415674063251" expanded="true" signature="-1:-1" placeholder="UPDATE tb_pa..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pagamentos.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7818854" vertical-offset="1617" max-vertical-offset="2261">
+          <caret line="120" column="78" selection-start-line="120" selection-start-column="78" selection-end-line="120" selection-end-column="78" />
+          <folding>
+            <marker date="1415674063326" expanded="true" signature="-1:-1" placeholder="SELECT * FRO..tb_pagamentos..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.3456562" vertical-offset="0" max-vertical-offset="1292">
+          <caret line="11" column="0" selection-start-line="11" selection-start-column="0" selection-end-line="11" selection-end-column="0" />
+          <folding />
         </state>
       </provider>
     </entry>

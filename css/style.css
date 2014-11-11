@@ -1,0 +1,116 @@
+/* Attila Toledo Lopes */
+
+@import url(http://fonts.googleapis.com/css?family=Open+Sans);
+
+html,
+body {
+	font-family: 'Open Sans', Verdana, Arial, sans-serif;
+	padding-bottom: 0px;
+}
+
+p {
+	font-size: 16pt;
+}
+
+.navbar-brand {
+	font-size: 24pt;
+	font-weight: bolder;
+}
+
+.navbar-header {
+		color: #ffffff;
+}
+
+footer .row {
+	background-color: #e7e7e7;
+	height: 100%;
+	padding: 10px;
+	text-align: center;
+}
+
+.row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.featurette-heading {
+	margin-top: 0px;
+}
+
+.featurette-image {
+	padding: 30px;
+}
+
+.navbar-collapse {
+	float: right;
+}
+
+.navbar-nav {
+	font-size: 16pt;
+}
+
+.fundoslide {
+	background-color: rgba(0,0,0,0.6);
+	padding: 20px;
+}
+
+.item img {
+	opacity: 0.7;
+}
+
+.carousel-inner > .item > img {
+	height: 450px;
+}
+
+.carousel .item {
+	height: 450px;
+}
+
+.carousel-caption {
+	
+}
+
+.carousel {
+	height: 450px;
+    margin-bottom: 0px;
+}
+
+.featurette {
+	padding: 5%;
+	height: 100%;
+}
+
+.fundo0 {
+}
+
+.fundo1 {
+	background-color: #34495E;
+	color: #ffffff;
+	text-align: right;
+}
+
+.fundo2 {
+	background-color: #4C6A89;
+	color: #ffffff;
+}
+
+.fundo3 {
+	background-color: #5E84AA;
+	color: #ffffff;
+	text-align: right;
+}
+
+.fundo4 {
+	background-color: #3B536B;
+	color: #ffffff;
+}
+
+.fundo5 {
+	background-color: #263544;
+	color: #ffffff;
+	text-align: right;
+}
+
+.btn-primary a {
+	color: #ffffff;
+}
