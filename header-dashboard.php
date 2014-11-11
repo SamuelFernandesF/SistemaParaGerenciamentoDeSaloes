@@ -33,7 +33,7 @@
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
                 <li><a href="dashboard.php">Dashboard</a></li>
-                <li><a href="#">Editar informações</a></li>
+                <li><a href="#">Editar informacoes</a></li>
                 <li><a href="home.php">Sair</a></li>
             </ul>
         </div>

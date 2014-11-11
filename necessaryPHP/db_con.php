@@ -1,4 +1,4 @@
 <?php
 session_start();
-$db = mysqli_connect("localhost","root","MyNewPass", "sgs");
+$db = mysqli_connect("localhost","root","root", "scs");
 ?>

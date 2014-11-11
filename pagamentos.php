@@ -9,8 +9,6 @@ include ("header-dashboard.php");
                 <ul class="nav nav-sidebar">
                     <li class="active"><a href="pagamentos.php">Pagamentos</a></li>
                     <li><a href="servicos.php">Serviços</a></li>
-                    <li><a href="#">Analytics</a></li>
-                    <li><a href="#">Export</a></li>
                 </ul>
             </div>
         </div>

@@ -6,9 +6,7 @@
             <div class="col-sm-3 col-md-2 sidebar">
                 <ul class="nav nav-sidebar">
                     <li><a href="pagamentos.php">Pagamentos</a></li>
-                    <li><a href="#">Atividades</a></li>
-                    <li><a href="#">Analytics</a></li>
-                    <li><a href="#">Export</a></li>
+                    <li><a href="servicos.php">Servicos</a></li>
                 </ul>
             </div>
         </div>
