@@ -34,7 +34,7 @@ include ("header-dashboard.php");
                     <input type="number" class="form-control" id="valor"  value="<?php echo $valor ?>" name="valor">
                 </div>
                 <button type="submit" class="btn btn-warning">Editar</button>
-                <button class="btn btn-danger"><a href="funcoesPHP/servicos.php?action=excluir&id=<?php echo $id ?>" style="color: #fff">Excluir</button></a>
+                <a href="funcoesPHP/servicos.php?action=excluir&id=<?php echo $id ?>" style="color: #fff"><button class="btn btn-danger">Excluir</button></a>
             </form>
         </div>
     </div>

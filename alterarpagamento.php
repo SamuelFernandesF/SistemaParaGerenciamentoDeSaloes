@@ -42,9 +42,10 @@ include ("header-dashboard.php");
                 <input type="text" class="form-control" value="<?php echo $profissional ?>" name="profissional" id="profissional">
             </div>
             <button type="submit" class="btn btn-warning">Editar</button>
-            <button class="btn btn-danger"><a href="funcoesPHP/pagamentos.php?action=excluir&id=<?php echo $id ?>" style="color: #fff">Excluir</button></a>
+            <a href="funcoesPHP/pagamentos.php?action=excluir&id=<?php echo $id ?>" style="color: #fff"><button TYPE="button" class="btn btn-danger">Excluir</button></a>
         </form>
     </div>
+
 </div>
 
 
