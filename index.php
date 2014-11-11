@@ -10,7 +10,6 @@
 </head>
 <body style="background-color: #eee">
 
-<h1>samuel viadao</h1>
 
 <div class="container-fluid">
     <div class="row">
