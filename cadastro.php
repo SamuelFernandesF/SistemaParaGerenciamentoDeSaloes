@@ -9,7 +9,7 @@
 			<h2 style="text-align: center">Insira um e-mail e uma senha válidos<br/><br/></h2>
 
 			<div class="form-group">
-				<input type="email" name="email" id="email_login" name="email_login" placeholder="Email" class="form-control input-lg" tabindex="4">
+				<input type="email" id="email_login" name="email_login" placeholder="Email" class="form-control input-lg" tabindex="4">
 			</div>
 
             <div class="form-group">

@@ -1,11 +1,14 @@
-<?php include ("header-dashboard.php"); ?>
+<?php
+include ("necessaryPHP/db_con.php");
+include ("header-dashboard.php");
+?>
 
 <div class="container-fluid">
     <div class="row">
         <div class="col-sm-3 col-md-2 sidebar">
             <ul class="nav nav-sidebar">
-                <li class="active"><a href="#">Pagamentos</a></li>
-                <li><a href="#">Reports</a></li>
+                <li class="active"><a href="pagamentos.php">Pagamentos</a></li>
+                <li><a href="servicos.php">Atividades</a></li>
                 <li><a href="#">Analytics</a></li>
                 <li><a href="#">Export</a></li>
             </ul>
@@ -27,7 +30,7 @@
 
     <div class="col-sm-9 col-sm-offset-3 col-md-10 col-md-offset-2 main">
         <h1 class="page-header">Editar Pagamento</h1>
-        <form class="form-inline" role="form" method="post" style="margin-top: 8px" action="funcoesPHP/pagamentos.php?action=editar&id=<?php echo $id ?>">
+        <form class="form-inline" role="form" method="post" action="funcoesPHP/pagamentos.php?action=editar&id=<?php echo $id?>" style="margin-top: 8px">
             <div class="form-group">
                 <input type="text" class="form-control" id="servico"  value="<?php echo $servico ?>" name="servico">
             </div>
@@ -40,7 +43,8 @@
             <div class="form-group">
                 <input type="text" class="form-control" value="<?php echo $profissional ?>" name="profissional" id="profissional">
             </div>
-            <button type="submit" class="btn btn-danger">Editar</button>
+            <button type="submit" class="btn btn-warning">Editar</button>
+            <button class="btn btn-danger"><a href="funcoesPHP/pagamentos.php?action=excluir&id=<?php echo $id ?>" style="color: #fff">Excluir</button></a>
         </form>
     </div>
 </div>

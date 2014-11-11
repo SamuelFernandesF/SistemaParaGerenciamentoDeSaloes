@@ -1,11 +1,14 @@
-<?php include ("header-dashboard.php"); ?>
+<?php
+include ("necessaryPHP/db_con.php");
+include ("header-dashboard.php");
+?>
 
     <div class="container-fluid">
         <div class="row">
             <div class="col-sm-3 col-md-2 sidebar">
                 <ul class="nav nav-sidebar">
-                    <li class="active"><a href="#">Pagamentos</a></li>
-                    <li><a href="#">Reports</a></li>
+                    <li class="active"><a href="pagamentos.php">Pagamentos</a></li>
+                    <li><a href="servicos.php">Serviços</a></li>
                     <li><a href="#">Analytics</a></li>
                     <li><a href="#">Export</a></li>
                 </ul>
@@ -61,9 +64,9 @@
                     <tr class="hoverEvent">
                         <td data-id="<?php echo $id ?>"><?php echo $id ?></td>
                         <td><?php echo $servico ?></td>
-                        <td><?php echo $valor ?></td>
                         <td><?php echo $data ?></td>
                         <td><?php echo $profissional ?></td>
+                        <td><?php echo $valor ?></td>
                         <td><a href="alterarpagamento.php?id=<?php echo $id ?>">Editar</a></td>
                     </tr>
                     <?php } ?>

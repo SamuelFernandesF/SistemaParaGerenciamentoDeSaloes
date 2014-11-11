@@ -105,8 +105,8 @@ body {
 }
 
 .hoverEvent:hover {
-    background: #449d44;
+    background: #f5f5f5;
 }
 .hoverEvent:active {
-    background: #449d22;
+    background: #e7e7e7;
 }

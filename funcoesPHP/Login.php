@@ -1,9 +1,13 @@
 <?php
 include ("../necessaryPHP/db_con.php");
 
+echo "BOOTY GO UP, DOOWNN";
+
 if (isset($_POST['email_login']) && isset($_POST['password_login'])) {
     $email = $_POST['email_login'];
     $password = $_POST['password_login'];
+
+    echo $_POST['email_login'];
 
     $query = "SELECT * FROM tb_user WHERE name_user = '$email' AND pass_user='$password' LIMIT 1";
     $return = mysqli_query($db, $query);
