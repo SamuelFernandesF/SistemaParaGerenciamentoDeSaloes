@@ -15,7 +15,7 @@
   </head>
 
   <body>
-    <div class="navbar navbar-fixed-top navbar-default" role="navigation">
+    <div class="navbar navbar-fixed-top navbar-inverse" role="navigation">
         <div class="container-fluid">
           <div class="navbar-header">
             <a class="navbar-brand" href="home.php">SASB</a>

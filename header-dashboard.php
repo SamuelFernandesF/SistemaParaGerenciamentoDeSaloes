@@ -28,17 +28,17 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
             </button>
-            <a class="navbar-brand" href="home.php">Sistema de Agendamento de Salão de Beleza</a>
+            <a class="navbar-brand" href="home.php">SASB</a>
         </div>
         <div id="navbar" class="navbar-collapse collapse">
             <ul class="nav navbar-nav navbar-right">
-                <li><a href="#">Dashboard</a></li>
-                <li><a href="#">Configurações</a></li>
+                <li><a href="dashboard.php">Dashboard</a></li>
                 <li><a href="#">Editar informações</a></li>
-                <li><a href="#">Sair</a></li>
+                <li><a href="home.php">Sair</a></li>
             </ul>
         </div>
     </div>
 </nav>
 
+<div class="container-fluid dashbg">
 

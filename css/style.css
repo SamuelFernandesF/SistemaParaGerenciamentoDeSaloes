@@ -114,3 +114,16 @@ footer .row {
 .btn-primary a {
 	color: #ffffff;
 }
+
+.dashbg {
+    background-color: #fff;
+}
+
+.container-fluid {
+    padding: 0px;
+}
+
+.navbar {
+    padding-right: 15px;
+    padding-left: 15px;
+}
