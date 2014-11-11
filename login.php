@@ -1,8 +1,7 @@
 <?php include ("header.php"); ?>
 <br><br><br>
-  <body>
 
-    <div class="container">
+    <div class="container" style="height: 450px;">
 
       <form class="form-signin" role="form">
         <h2 class="form-signin-heading" style="text-align: center">Acesse</h2>
@@ -13,6 +12,6 @@
       </form>
 
     </div> 
-<br><br><br><br><br>
+<br><br>
 
 <?php include ("footer.php"); ?>
