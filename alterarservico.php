@@ -9,7 +9,10 @@ include ("header-dashboard.php");
                 <ul class="nav nav-sidebar">
                     <li><a href="pagamentos.php">Pagamentos</a></li>
                     <li class="active"><a href="servicos.php">Servicos</a></li>
+<<<<<<< HEAD
                     <li><a href="funcionarios.php">Funcionarios</a></li>
+=======
+>>>>>>> 213a82d31e093762bf41b5f2b6b82f98447f1a3d
                 </ul>
             </div>
         </div>
