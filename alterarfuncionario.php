@@ -10,6 +10,8 @@ include ("header-dashboard.php");
                     <li><a href="pagamentos.php">Pagamentos</a></li>
                     <li><a href="servicos.php">Servicos</a></li>
                     <li class="active"><a href="funcionarios.php">Funcionarios</a></li>
+                    <li><a href="relatorio_servicos.php">Relatório de vendas</a></li>
+                    <li class=""><a href="relatorio_data.php">Relatório por datas</a></li>
                 </ul>
             </div>
         </div>
@@ -54,5 +56,15 @@ include ("header-dashboard.php");
 
     </div>
 
+<script type="text/javascript">
+    function formatar_mascara(src, mascara) {
+        var campo = src.value.length;
+        var saida = mascara.substring(0,1);
+        var texto = mascara.substring(campo);
+        if(texto.substring(0,1) != saida) {
+            src.value += texto.substring(0,1);
+        }
+    }
+                </script>
 
 <?php } include ("footer.php"); ?>

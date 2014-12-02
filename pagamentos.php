@@ -9,10 +9,9 @@ include ("header-dashboard.php");
                 <ul class="nav nav-sidebar">
                     <li class="active"><a href="pagamentos.php">Pagamentos</a></li>
                     <li><a href="servicos.php">Serviços</a></li>
-<<<<<<< HEAD
                     <li><a href="funcionarios.php">Funcionarios</a></li>
-=======
->>>>>>> 213a82d31e093762bf41b5f2b6b82f98447f1a3d
+                    <li><a href="relatorio_servicos.php">Relatório de vendas</a></li>
+                    <li class=""><a href="relatorio_data.php">Relatório por datas</a></li>
                 </ul>
             </div>
         </div>
@@ -21,16 +20,36 @@ include ("header-dashboard.php");
             <h1 class="page-header">Cadastrar Pagamentos</h1>
             <form class="form-inline" role="form" method="post" style="margin-top: 8px" action="funcoesPHP/pagamentos.php?action=cadastrar">
                 <div class="form-group">
-                    <input type="text" class="form-control" id="servico"  placeholder="Serviço Realizado" name="servico">
+                    <select id="servico" name="servico" style="width: 182px; height: 34px; border: 1px solid #cccccc; border-radius: 4px">
+                        <option value="" disabled selected>Selecione a opção</option>
+                        <?php
+                        $query = "SELECT * FROM tb_servicos";
+                        $results = mysqli_query($db, $query);
+                        while ($linhas = mysqli_fetch_array($results)) {
+                            $servico = $linhas['nome_servico'];
+                            ?>
+                            <option><?php echo $servico;?></option>
+                        <?php } ?>
+                    </select>
                 </div>
                 <div class="form-group">
-                    <input type="number" class="form-control" id="valor"  placeholder="R$" id="valor" name="valor">
+                    <input type="number" class="form-control" id="valor"  placeholder="R$" id="valor" name="valor" style="border: 1px solid #ccc; height: 34px; border-radius: 4px">
                 </div>
                 <div class="form-group">
-                    <input type="date" class="form-control" placeholder="Data" name="data" id="data">
+                    <input type="date" class="form-control" placeholder="Data" name="data" id="data" style="height: 34px; border-radius: 4px">
                 </div>
                 <div class="form-group">
-                    <input type="text" class="form-control" placeholder="Profissional" name="profissional" id="profissional">
+                    <select id="profissional" name="profissional" style="width: 182px; height: 34px; border: 1px solid #cccccc; border-radius: 4px">
+                        <option value="" disabled selected>Selecione a opção</option>
+                        <?php
+                        $query = "SELECT * FROM tb_funcionarios";
+                        $results = mysqli_query($db, $query);
+                        while ($linhas = mysqli_fetch_array($results)) {
+                            $servico = $linhas['nome'];
+                            ?>
+                            <option><?php echo $servico;?></option>
+                        <?php } ?>
+                    </select>
                 </div>
                 <button type="submit" class="btn btn-primary">Cadastrar</button>
             </form>

@@ -7,10 +7,8 @@
                 <ul class="nav nav-sidebar">
                     <li><a href="pagamentos.php">Pagamentos</a></li>
                     <li><a href="servicos.php">Servicos</a></li>
-<<<<<<< HEAD
                     <li><a href="funcionarios.php">Funcionarios</a></li>
-=======
->>>>>>> 213a82d31e093762bf41b5f2b6b82f98447f1a3d
+                    <li><a href="relatorio_servicos.php">Relatório de vendas</a></li>
                 </ul>
             </div>
         </div>
